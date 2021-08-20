@@ -1,4 +1,4 @@
-# Learning-R-Resources
+# Learning R Resources
 My go-to list of resources for learning, revising and improving your R knowledge and workflows
 
 ## Books
